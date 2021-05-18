@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# files
+rating_curves-Copy1.ipynb
+rating_curves_copy/
