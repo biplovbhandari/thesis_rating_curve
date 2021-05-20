@@ -130,4 +130,4 @@ dmypy.json
 
 # files
 rating_curves-Copy1.ipynb
-rating_curves_copy/
+mrc_data_download.ipynb
