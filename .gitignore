@@ -130,4 +130,10 @@ dmypy.json
 
 # files
 rating_curves-Copy1.ipynb
-data/
+mrc_list.csv
+historical_data/
+mrc_observations/
+other_exports/
+rating_curves/
+spt_predictions/
+spt_vs_mrc/
