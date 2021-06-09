@@ -141,7 +141,6 @@ pre_rating_curves/
 rating_curves/
 # but not this
 !plot_exports/rating_curves/
-spt_predictions/
 spt_vs_mrc/
 
 scripts/
