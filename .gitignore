@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # files
+for_rating_curves/
 rating_curves-Copy1.ipynb
 rating_curves.backup.ipynb
 mrc_list.csv
@@ -136,6 +137,7 @@ historical_data/
 mrc_download/
 mrc_observations/
 other_exports/
+pre_rating_curves/
 rating_curves/
 spt_predictions/
 spt_vs_mrc/
