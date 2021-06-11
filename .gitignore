@@ -130,8 +130,6 @@ dmypy.json
 
 # files
 for_rating_curves/
-rating_curves-Copy1.ipynb
-rating_curves.backup.ipynb
 mrc_list.csv
 historical_data/
 mrc_download/
@@ -144,3 +142,8 @@ rating_curves/
 spt_vs_mrc/
 
 scripts/
+
+# Notebooks
+rating_curves-Copy1.ipynb
+rating_curves.backup.ipynb
+Notebooks/4.rating_curves_kel.ipynb
