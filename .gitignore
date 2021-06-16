@@ -134,6 +134,7 @@ mrc_list.csv
 historical_data/
 mrc_download/
 mrc_observations/
+mrc_observations.backup/
 other_exports/
 pre_rating_curves/
 rating_curves/
