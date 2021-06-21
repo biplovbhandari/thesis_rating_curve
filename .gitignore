@@ -142,7 +142,7 @@ rating_curves/
 !plot_exports/rating_curves/
 spt_vs_mrc/
 
-scripts/
+scripts/mrc_download.py
 
 # Notebooks
 rating_curves-Copy1.ipynb
